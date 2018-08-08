@@ -1,2 +1,2 @@
 # EDNN
-EDNN model
+EDNN model implements by Pytorch
